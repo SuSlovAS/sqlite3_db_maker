@@ -1,2 +1,2 @@
 # sqlite3_db_maker
-This script creates sqlite3 db
+This script creates sqlite3 db from parser.
